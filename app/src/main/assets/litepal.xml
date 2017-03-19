@@ -3,9 +3,9 @@
      <dbname value="cool_weather"/>
     <version value="1"></version>
     <list>
-        <mapping class = "com.ymy.weatherforecast.db.Prinvince"/>
+        <mapping class = "com.ymy.weatherforecast.db.Province"/>
         <mapping class = "com.ymy.weatherforecast.db.City"/>
-        <mapping class = "com.ymy.weatherforecast.db.Country"/>
+        <mapping class = "com.ymy.weatherforecast.db.County"/>
 
     </list>
 </litepal>
